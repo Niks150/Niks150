@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Niks150
-- 👀 I’m interested in DESIGNING
-- 🌱 I’m currently learning JAVA SCRIPT
-- 📫 How to reach me on insta and linkedin
+- 👋 Hi, I’m Swami Sandeep Kumar
+- 👀 I’m interested in working on differnt- different modules
+- 💻 Frontend: Intermediate-level expertise in crafting user-friendly interfaces and responsive designs.
+-🔧 Backend: Beginner-level skills in developing server-side functionality and APIs.
+-🌱 Always eager to learn new technologies and enhance my development skills.
 
-<!---
-Niks150/Niks150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
